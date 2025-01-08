@@ -696,9 +696,6 @@ SHAPES
     .modal__half {
         width: 100%;
     }
-    .shape {
-        z-index: -1;
-    }
 }
 
 /* SMALL PHONES */
@@ -727,8 +724,5 @@ SHAPES
     }
     .modal__half {
         padding: 40px;
-    }
-    .shape {
-        z-index: -1;
     }
 }
